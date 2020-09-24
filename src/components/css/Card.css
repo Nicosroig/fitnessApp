@@ -2,8 +2,8 @@
   margin-top: 20px;
   border: none;
   border-radius: 8px;
-  background: url("../../images/circles.png") no-repeat,
-    linear-gradient(to right, #a74cf2, #617bfb);
+  /* background: url("../../images/circles.png") no-repeat,
+    linear-gradient(to right, #a74cf2, #617bfb); */
 }
 .Fitness-Card {
   max-height: 140px;
