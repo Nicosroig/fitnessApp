@@ -4,7 +4,7 @@ import Exercises from "../pages/Exercises";
 import ExercisesNew from "../pages/ExerciseNew";
 import NotFound from "../pages/NotFound";
 
-function App() {
+const App = () => {
   return (
     <BrowserRouter>
       <Switch>
@@ -14,6 +14,6 @@ function App() {
       </Switch>
     </BrowserRouter>
   );
-}
+};
 
 export default App;
